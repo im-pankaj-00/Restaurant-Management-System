@@ -1,4 +1,4 @@
-package com.company;
+package com.pankaj;
 // It's a java program of Resturant Management
 
 import java.util.*;
